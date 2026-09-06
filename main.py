@@ -8,4 +8,4 @@ print("Сегодня дата:", datetime.now().date())
 
 #commentaryi
 #commentaryi2:
-# TODO: Добавить проверку на пустой ввод
+#experimental comment
